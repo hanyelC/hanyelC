@@ -2,7 +2,7 @@
 - 👀 I’m interested in work as a developer
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me hanyel.chamon@gmail.com
 
 <!---
 hanyelC/hanyelC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
