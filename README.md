@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hanyel Chamon
-- 👀 I’m interested in work as a developer
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me hanyel.chamon@gmail.com
 
 <!---
