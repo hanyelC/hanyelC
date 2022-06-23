@@ -31,7 +31,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/hanyel/hanyel/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/hanyelC/hanyelC/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
